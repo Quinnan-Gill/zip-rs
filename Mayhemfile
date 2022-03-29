@@ -1,6 +1,6 @@
 version: '1.16'
 duration: 90
-project: arisKoutsou/zip-rs
+project: quinnan-gill/zip-rs
 target: extract
 advanced_triage: true
 tasks:
