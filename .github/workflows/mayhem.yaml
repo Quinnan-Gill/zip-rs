@@ -48,7 +48,7 @@ jobs:
       - name: Start analysis
         uses: ForAllSecure/mcode-action@v1
         with:
-          args: --image ${{ steps.meta.outputs.tags }} --corpus file://mayhem/corpus
+          args: --image ${{ steps.meta.outputs.tags }}
           sarif-output: sarif
 
       - name: Upload SARIF file(s)
