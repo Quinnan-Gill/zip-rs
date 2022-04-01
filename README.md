@@ -1,6 +1,8 @@
 zip-rs
 ======
 
+
+
 [![Build Status](https://img.shields.io/github/workflow/status/zip-rs/zip/CI)](https://github.com/zip-rs/zip/actions?query=branch%3Amaster+workflow%3ACI)
 [![Crates.io version](https://img.shields.io/crates/v/zip.svg)](https://crates.io/crates/zip)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/rQ7H9cSsF4)

@@ -1,4 +1,3 @@
-version: '1.16'
 duration: 90
 project: quinnan-gill/zip-rs
 target: extract
@@ -10,5 +9,5 @@ tasks:
   - name: coverage_analysis
 cmds:
   - cmd: /workdir/target/debug/examples/extract @@
-corpus:
+tests:
   - file://mayhem/corpus
